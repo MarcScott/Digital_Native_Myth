@@ -1,0 +1,100 @@
+#+STARTUP: indent
+#+OPTIONS: reveal_title_slide:nil toc:nil num:nil
+#+OPTIONS: reveal_center:nil reveal_progress:t reveal_history:t
+#+OPTIONS: reveal_rolling_links:t num:nil
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: fade
+#+REVEAL_THEME: blood
+* Grrr!
+#+BEGIN_EXPORT html
+<video width="800" controls>
+  <source src="images/virgin.mp4" type="video/mp4">
+</video>
+#+END_EXPORT
+* Creating True Digital Natives
+#+attr_html: :width 600px
+[[file:images/teen.jpg]]
+** What the hell is a digital native?
+#+begin_quote
+A person born or brought up during the age of digital technology and so familiar with computers and the Internet from an early age.
+#+end_quote
+** Let's look at that closer.
+#+begin_quote
+A person born or brought up during the age of digital technology and so familiar with *computers* and the *Internet* from an early age.
+#+end_quote
+** Is she using a computer?
+#+attr_html: :width 600px
+[[file:images/mobile.jpg]]
+** Or is she?
+#+attr_html: :width 600px
+[[file:images/engineer.jpg]]
+** Is this using the Internet?
+#+attr_html: :width 600px
+[[file:images/instagram.jpeg]]
+** Or is this?
+#+attr_html: :width 600px
+[[file:images/js.png]]
+* My students weren't Digital Natives
+** 2013 - When I first entered the debate
+#+attr_html: :width 600px
+[[file:images/kids-cant.png]]
+** It went viral
+- Number 1 on HackerNews for a day
+- Number 1 on r/Technology for a day
+- Thousands of Tweets and Facebook shares
+[[file:images/analytics.png]]
+** Reactions were mixed
+#+attr_html: :width 1200px
+[[file:images/hn.png]]
+** Very mixed
+#+attr_html: :width 1200px
+[[file:images/reddit.png]]
+** What was my point
+- I had been an ICT teacher and Network Manager
+- My daily experience was that kids were mostly digitally illiterate
+- As the world became increasingly digital, we needed a solution
+- I ranted about parents, teachers, politicians and tech companies.
+* What we want vs What we've got
+** The Good - The Kids
+#+attr_html: :width 600px
+[[file:images/kids.png]]
+** The Okay - The Parents
+#+attr_html: :width 600px
+[[file:images/parents.png]]
+** The Bad - The Teachers
+#+attr_html: :width 500px
+[[file:images/teachers.png]]
+** The Problem
+#+attr_html: :width 600px
+[[file:images/growth.png]]
+* Things are getting better
+** Compulsory CS education at primary and secondary
+[[file:images/classroom.jpg]]
+** Growing number of NGOs
+[[file:images/coderdojo.png]]
+** Various campaigns
+[[file:images/bbc.png]]
+** Political awareness
+[[file:images/obama.png]]
+* More can be done
+** Volunteers can help
+[[file:images/stem.png]]
+** Code Club - What?
+[[file:images/cc3.png]]
+** Code Club - Where?
+[[file:images/cc0.png]]
+** Code Club - How?
+[[file:images/cc2.png]]
+** Pioneers
+[[file:images/blah.png]]
+** The Process
+[[file:images/pioneers.png]]
+** Let him explain
+#+BEGIN_EXPORT html
+<video width="800" controls>
+  <source src="images/pioneers.mp4" type="video/mp4">
+</video>
+#+END_EXPORT
+
